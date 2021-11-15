@@ -836,13 +836,13 @@
 	},
 	{
 		"abr": "cooler",
-		"price": 458,
+		"price": 442,
 		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "vent",
-		"price": 97,
+		"price": 82,
 		"category": "Misc",
 		"defname": "Vent"
 	},
@@ -2132,7 +2132,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 1000,
+		"price": 58,
 		"category": "Animals",
 		"defname": "Rat"
 	},
@@ -3236,19 +3236,19 @@
 	},
 	{
 		"abr": "over-wallcooler",
-		"price": 458,
+		"price": 442,
 		"category": "Misc",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "over-wallcooler(wide)",
-		"price": 458,
+		"price": 442,
 		"category": "Misc",
 		"defname": "Cooler_Over2W"
 	},
 	{
 		"abr": "over-wallvent",
-		"price": 97,
+		"price": 82,
 		"category": "Misc",
 		"defname": "Vent_Over"
 	},
@@ -11556,6 +11556,1020 @@
 		"category": "Meat",
 		"defname": "Meat_WolfManXH"
 	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Misc",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Misc",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "air-conpipe",
+		"price": 5,
+		"category": "Misc",
+		"defname": "airPipe"
+	},
+	{
+		"abr": "amulet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAmulet"
+	},
+	{
+		"abr": "animalclothes",
+		"price": 166,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalClothes"
+	},
+	{
+		"abr": "animalflakarmor",
+		"price": 500,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalFlakArmor"
+	},
+	{
+		"abr": "animalflakhelmet",
+		"price": 260,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalAdvancedHelmet"
+	},
+	{
+		"abr": "animalgate",
+		"price": 88,
+		"category": "Misc",
+		"defname": "VFEArch_AnimalGate"
+	},
+	{
+		"abr": "animalheadwear",
+		"price": 91,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalScarf"
+	},
+	{
+		"abr": "animalplatearmor",
+		"price": 450,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPlateArmor"
+	},
+	{
+		"abr": "animalplatehelmet",
+		"price": 135,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPlateHelmet"
+	},
+	{
+		"abr": "animalpowerarmor",
+		"price": 3392,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPowerArmor"
+	},
+	{
+		"abr": "animalpowerhelmet",
+		"price": 1058,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "antlers",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAntlers"
+	},
+	{
+		"abr": "archeddoor",
+		"price": 91,
+		"category": "Misc",
+		"defname": "LTS_ArchedDoor"
+	},
+	{
+		"abr": "arkelstorp",
+		"price": 151,
+		"category": "Furniture",
+		"defname": "LTS_Arkelstorp"
+	},
+	{
+		"abr": "armoreddoor",
+		"price": 177,
+		"category": "Misc",
+		"defname": "VFEArch_ArmoredDoor"
+	},
+	{
+		"abr": "armoredwall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "VFEArch_ArmoredWall"
+	},
+	{
+		"abr": "axehead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertAxeHead"
+	},
+	{
+		"abr": "barnowl",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BB_BarnOwl"
+	},
+	{
+		"abr": "barnowlegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "EggBarnOwlFertilized"
+	},
+	{
+		"abr": "barnowlegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggBarnOwlUnfertilized"
+	},
+	{
+		"abr": "bone",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBone"
+	},
+	{
+		"abr": "book",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBook"
+	},
+	{
+		"abr": "bottle",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBottle"
+	},
+	{
+		"abr": "bowl",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBowl"
+	},
+	{
+		"abr": "bracelet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBracelet"
+	},
+	{
+		"abr": "brickfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_BrickFence"
+	},
+	{
+		"abr": "brokenmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenMask"
+	},
+	{
+		"abr": "brokenspear",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBrokenSpear"
+	},
+	{
+		"abr": "brokensword",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertSword"
+	},
+	{
+		"abr": "bucket",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertBucket"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Misc",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan1x1(dark)",
+		"price": 184,
+		"category": "Misc",
+		"defname": "CeilingFanSDarklight"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Misc",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "ceilingfan2x2(dark)",
+		"price": 184,
+		"category": "Misc",
+		"defname": "CeilingFanDarklight"
+	},
+	{
+		"abr": "celldoor",
+		"price": 88,
+		"category": "Misc",
+		"defname": "VFEArch_CellDoor"
+	},
+	{
+		"abr": "cellwall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "VFEArch_CellWall"
+	},
+	{
+		"abr": "ceremonialmask",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertCeremonialMask"
+	},
+	{
+		"abr": "chain",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertChain"
+	},
+	{
+		"abr": "chainlinkfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_ChainlinkFence"
+	},
+	{
+		"abr": "counter",
+		"price": 68,
+		"category": "Misc",
+		"defname": "LTS_Counter"
+	},
+	{
+		"abr": "crow",
+		"price": 167,
+		"category": "Animals",
+		"defname": "BB_Crow"
+	},
+	{
+		"abr": "crowegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "EggCrowFertilized"
+	},
+	{
+		"abr": "crowegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggCrowUnfertilized"
+	},
+	{
+		"abr": "devil'sbargain",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_DevilsBargain"
+	},
+	{
+		"abr": "driedfish",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "SM_DriedFish"
+	},
+	{
+		"abr": "eagleowl",
+		"price": 333,
+		"category": "Animals",
+		"defname": "BB_EagleOwl"
+	},
+	{
+		"abr": "eagleowlegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "EggEagleOwlFertilized"
+	},
+	{
+		"abr": "eagleowlegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggEagleOwlUnfertilized"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Misc",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "engram",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngram"
+	},
+	{
+		"abr": "epiphany",
+		"price": 1108,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Epiphany"
+	},
+	{
+		"abr": "fencepostchemlamp",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Chemlamp"
+	},
+	{
+		"abr": "fencepostlamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "Owl_Fencepost_Lamp"
+	},
+	{
+		"abr": "fenceposttorch",
+		"price": 31,
+		"category": "Misc",
+		"defname": "Owl_Fencepost_TorchLamp"
+	},
+	{
+		"abr": "finewall",
+		"price": 35,
+		"category": "Misc",
+		"defname": "VFEArch_FineWall"
+	},
+	{
+		"abr": "firepit",
+		"price": 442,
+		"category": "Temperature",
+		"defname": "LTS_Firepit"
+	},
+	{
+		"abr": "firepit",
+		"price": 358,
+		"category": "Temperature",
+		"defname": "LTS_FirepitRound"
+	},
+	{
+		"abr": "fireplace",
+		"price": 358,
+		"category": "Temperature",
+		"defname": "LTS_Fireplace"
+	},
+	{
+		"abr": "fishdrier",
+		"price": 58,
+		"category": "Production",
+		"defname": "SM_FishDrier"
+	},
+	{
+		"abr": "fossil",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertFossil"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Misc",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "gauntlet",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertGauntlet"
+	},
+	{
+		"abr": "geothermalheater",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "GeothermHeater"
+	},
+	{
+		"abr": "hangingbed",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "LTS_HangingBed"
+	},
+	{
+		"abr": "heatingpipe",
+		"price": 5,
+		"category": "Misc",
+		"defname": "HeatingPipe"
+	},
+	{
+		"abr": "hedge",
+		"price": 18,
+		"category": "Misc",
+		"defname": "LTS_Hedge"
+	},
+	{
+		"abr": "hedgewall",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VFEArch_HedgeWall"
+	},
+	{
+		"abr": "horn",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertHorn"
+	},
+	{
+		"abr": "hugewindow",
+		"price": 175,
+		"category": "Misc",
+		"defname": "HugeOpenWindow"
+	},
+	{
+		"abr": "idol",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertIdol"
+	},
+	{
+		"abr": "implant",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertImplant"
+	},
+	{
+		"abr": "insectskull",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertInsectSkull"
+	},
+	{
+		"abr": "invisiblefence",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VFEArch_InvisibleFence"
+	},
+	{
+		"abr": "kestrel",
+		"price": 333,
+		"category": "Animals",
+		"defname": "BB_Kestrel"
+	},
+	{
+		"abr": "kestrelegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "EggKestrelFertilized"
+	},
+	{
+		"abr": "kestrelegg(unfert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "EggKestrelUnfertilized"
+	},
+	{
+		"abr": "kivik",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "LTS_Kivik"
+	},
+	{
+		"abr": "klimpfjäll",
+		"price": 215,
+		"category": "Furniture",
+		"defname": "LTS_Klimpfjall"
+	},
+	{
+		"abr": "kronos",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Kronos"
+	},
+	{
+		"abr": "kyrre",
+		"price": 56,
+		"category": "Furniture",
+		"defname": "LTS_Kyrre"
+	},
+	{
+		"abr": "lanternpost",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "LTS_Lanternpost"
+	},
+	{
+		"abr": "lanternpost",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "LTS_Lightpost"
+	},
+	{
+		"abr": "largeanimalclothes",
+		"price": 292,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalClothes"
+	},
+	{
+		"abr": "largeanimalflakarmor",
+		"price": 1108,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalFlakArmor"
+	},
+	{
+		"abr": "largeanimalflakhelmet",
+		"price": 592,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalAdvancedHelmet"
+	},
+	{
+		"abr": "largeanimalheadwear",
+		"price": 181,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalScarf"
+	},
+	{
+		"abr": "largeanimalplatearmor",
+		"price": 1075,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPlateArmor"
+	},
+	{
+		"abr": "largeanimalplatehelmet",
+		"price": 269,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPlateHelmet"
+	},
+	{
+		"abr": "largeanimalpowerarmor",
+		"price": 5783,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPowerArmor"
+	},
+	{
+		"abr": "largeanimalpowerhelmet",
+		"price": 1717,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Misc",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "largereinforcedwindow",
+		"price": 508,
+		"category": "Misc",
+		"defname": "LargeReinforcedOpenWindow"
+	},
+	{
+		"abr": "largewindow",
+		"price": 105,
+		"category": "Misc",
+		"defname": "LargeOpenWindow"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Misc",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "logwall",
+		"price": 11,
+		"category": "Misc",
+		"defname": "VFEArch_LogWall"
+	},
+	{
+		"abr": "lowfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_LowFence"
+	},
+	{
+		"abr": "meatrack",
+		"price": 43,
+		"category": "Production",
+		"defname": "SM_MeatRack"
+	},
+	{
+		"abr": "mechanoidhead",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMechanoidHead"
+	},
+	{
+		"abr": "medallion",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMedallion"
+	},
+	{
+		"abr": "momentum",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Momentum"
+	},
+	{
+		"abr": "mug",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertMug"
+	},
+	{
+		"abr": "mullfjället",
+		"price": 260,
+		"category": "Furniture",
+		"defname": "LTS_Mullfjallet"
+	},
+	{
+		"abr": "norraryd",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "LTS_Norraryd"
+	},
+	{
+		"abr": "oddityfragment",
+		"price": 833,
+		"category": "Items",
+		"defname": "OC_OddityFragment"
+	},
+	{
+		"abr": "odditystrongbox",
+		"price": 4167,
+		"category": "Artifacts",
+		"defname": "OC_OddityStrongbox_Weapons"
+	},
+	{
+		"abr": "orb",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertApple"
+	},
+	{
+		"abr": "ornatefence",
+		"price": 8,
+		"category": "Misc",
+		"defname": "LTS_OrnateFence"
+	},
+	{
+		"abr": "ornatefencegate",
+		"price": 141,
+		"category": "Misc",
+		"defname": "LTS_OrnateFenceGate"
+	},
+	{
+		"abr": "picketfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_PicketFence"
+	},
+	{
+		"abr": "pillar",
+		"price": 71,
+		"category": "Misc",
+		"defname": "LTS_Pillar"
+	},
+	{
+		"abr": "polishedrock",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPolishedRock"
+	},
+	{
+		"abr": "prisonbars",
+		"price": 18,
+		"category": "Misc",
+		"defname": "LTS_Bars"
+	},
+	{
+		"abr": "prisongate",
+		"price": 141,
+		"category": "Misc",
+		"defname": "LTS_BarsGate"
+	},
+	{
+		"abr": "proboscis",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Proboscis"
+	},
+	{
+		"abr": "pyramid",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPyramid"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Misc",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "rawsausage",
+		"price": 5,
+		"category": "Meals",
+		"defname": "SM_Sausage_Raw"
+	},
+	{
+		"abr": "reinforcedwindow",
+		"price": 171,
+		"category": "Misc",
+		"defname": "ReinforcedOpenWindow"
+	},
+	{
+		"abr": "ridinggear",
+		"price": 322,
+		"category": "Animal Apparel",
+		"defname": "Apparel_bridle"
+	},
+	{
+		"abr": "ring",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertRing"
+	},
+	{
+		"abr": "rockpath",
+		"price": 39,
+		"category": "Misc",
+		"defname": "LTS_PathB"
+	},
+	{
+		"abr": "roulette",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Roulette"
+	},
+	{
+		"abr": "roundgrowingpit",
+		"price": 442,
+		"category": "Misc",
+		"defname": "LTS_Growingpit"
+	},
+	{
+		"abr": "roundgrowingpit",
+		"price": 358,
+		"category": "Misc",
+		"defname": "LTS_GrowingpitRound"
+	},
+	{
+		"abr": "roundpath",
+		"price": 39,
+		"category": "Misc",
+		"defname": "LTS_PathA"
+	},
+	{
+		"abr": "rusticwindow",
+		"price": 18,
+		"category": "Misc",
+		"defname": "SimpleOpenWindow"
+	},
+	{
+		"abr": "salt",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "SM_Salt"
+	},
+	{
+		"abr": "saltedmeat",
+		"price": 4,
+		"category": "Meat",
+		"defname": "SM_SaltedMeat"
+	},
+	{
+		"abr": "sausage",
+		"price": 10,
+		"category": "Meals",
+		"defname": "SM_Sausage"
+	},
+	{
+		"abr": "sausagepost",
+		"price": 26,
+		"category": "Production",
+		"defname": "SM_SausagePost"
+	},
+	{
+		"abr": "scroll",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertScroll"
+	},
+	{
+		"abr": "shroud",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertShroud"
+	},
+	{
+		"abr": "singledoor",
+		"price": 54,
+		"category": "Misc",
+		"defname": "VFEArch_SingleDoor"
+	},
+	{
+		"abr": "skull",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertSkull"
+	},
+	{
+		"abr": "skyslasher",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Skyslasher"
+	},
+	{
+		"abr": "slag",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertPlate"
+	},
+	{
+		"abr": "solarheater",
+		"price": 244,
+		"category": "Misc",
+		"defname": "SolarHeater"
+	},
+	{
+		"abr": "stack",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertStack"
+	},
+	{
+		"abr": "stasis",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Gun_Stasis"
+	},
+	{
+		"abr": "statuette",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertStatuette"
+	},
+	{
+		"abr": "stonearch",
+		"price": 85,
+		"category": "Misc",
+		"defname": "LTS_ArchStone"
+	},
+	{
+		"abr": "stoneborder",
+		"price": 7,
+		"category": "Misc",
+		"defname": "LTS_StoneBorderCorner"
+	},
+	{
+		"abr": "stoneborder",
+		"price": 7,
+		"category": "Misc",
+		"defname": "LTS_StoneBorderEdge"
+	},
+	{
+		"abr": "tech",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertEngine"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Misc",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "thickdoor",
+		"price": 179,
+		"category": "Misc",
+		"defname": "LTS_ThickDoor"
+	},
+	{
+		"abr": "tools",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertTools"
+	},
+	{
+		"abr": "undergroundpowerconduit",
+		"price": 6,
+		"category": "Misc",
+		"defname": "PowerConduitInvisible"
+	},
+	{
+		"abr": "undergroundwaterproofpowerconduit",
+		"price": 38,
+		"category": "Misc",
+		"defname": "WaterproofPowerConduitInvisible"
+	},
+	{
+		"abr": "universalanimalclothes",
+		"price": 166,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalClothes"
+	},
+	{
+		"abr": "universalanimalflakarmor",
+		"price": 483,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalFlakArmor"
+	},
+	{
+		"abr": "universalanimalflakhelmet",
+		"price": 442,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalAdvancedHelmet"
+	},
+	{
+		"abr": "universalanimalplatearmor",
+		"price": 792,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPlateArmor"
+	},
+	{
+		"abr": "universalanimalplatehelmet",
+		"price": 153,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPlateHelmet"
+	},
+	{
+		"abr": "universalanimalpowerarmor",
+		"price": 3392,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPowerArmor"
+	},
+	{
+		"abr": "universalanimalpowerhelmet",
+		"price": 1058,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "universalpetscarf",
+		"price": 83,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalScarf"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Misc",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "window",
+		"price": 35,
+		"category": "Misc",
+		"defname": "OpenWindow"
+	},
+	{
+		"abr": "woodenarch",
+		"price": 85,
+		"category": "Misc",
+		"defname": "LTS_ArchWood"
+	},
+	{
+		"abr": "constructedsolarroof",
+		"price": 214,
+		"category": "Misc",
+		"defname": "RTR_SolarRoof"
+	},
+	{
+		"abr": "constructedsteelroof",
+		"price": 160,
+		"category": "Misc",
+		"defname": "RTR_SteelRoof"
+	},
+	{
+		"abr": "constructedtransparentroof",
+		"price": 227,
+		"category": "Misc",
+		"defname": "RTR_TransparentRoof"
+	},
+	{
+		"abr": "constructedtransparentsolarroof",
+		"price": 281,
+		"category": "Misc",
+		"defname": "RTR_TransparentSolarRoof"
+	},
+	{
+		"abr": "cantabile",
+		"price": 4667,
+		"category": "Melee weapons",
+		"defname": "OW_MeleeWeapon_Cantabile"
+	},
+	{
+		"abr": "leyline",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "OW_Bow_Leyline"
+	},
+	{
+		"abr": "removeconstructedsolarroof",
+		"price": 0,
+		"category": "Misc",
+		"defname": "RTR_RemoveSolarRoof"
+	}
 	],
-	"total": 1927
+	"total": 2100
 }

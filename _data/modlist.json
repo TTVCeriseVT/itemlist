@@ -657,7 +657,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.7.3.0"
+    "version": "1.7.3.2"
   },
   {
     "author": "Uuugggg",
@@ -802,5 +802,161 @@
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.5"
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chairheir",
+    "name": "Oddities: Weapons Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hen",
+    "name": "Style Revised - Animalist",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist and  Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": "2574489704",
+    "version": "1.3"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Moonlight",
+    "steamId": "2589384830",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Argón",
+    "name": "Salted Meat 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoners Dont Have Keys",
+    "steamId": "2595360307",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Zeitloser and  Erin",
+    "name": "Birds Beyond: Temperate Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist and  jptrrs",
+    "name": "Windows",
+    "steamId": "2571189146",
+    "version": "1.3"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": "1735421319",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "busted_bunny",
+    "name": "Recycle This",
+    "steamId": "2567877605",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha,  legodude17 and  ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Wall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Djgamer2k",
+    "name": "Share The Load",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "Epitaph",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bob",
+    "name": "Draggable Corners",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Machine",
+    "name": "Raise The Roof 1.3",
+    "steamId": "1776143665",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "You - but you forgot.",
+    "name": "Cerise Mod",
+    "steamId": null,
+    "version": null
   }
 ]
