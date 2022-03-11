@@ -4005,6 +4005,190 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is a messy person. he tends to leave dirt and trash where ever he goes and is slow to clean up after himself.",
+      "stats": [
+        "-50% cleaning speed",
+        "x200% filth rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cleaning Speed",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% cleaning speed",
+          "x200% filth rate"
+        ]
+      },
+      "defName": "CleaningSpeedOffset",
+      "name": "slovenly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy likes clean environments. he cleans quickly and avoids leaving dirt and trash.",
+      "stats": [
+        "+50% cleaning speed",
+        "x50% filth rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cleaning Speed",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% cleaning speed",
+          "x50% filth rate"
+        ]
+      },
+      "defName": "CleaningSpeedOffset",
+      "name": "fastidious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
     }
   ],
   "races": [
@@ -4110,23 +4294,23 @@
         "stats": [
           "+65.00 Mass",
           "+100% Flammability",
-          "+$2000 Market value",
-          "+4 Honor value",
+          "+$3000 Market value",
+          "+5 Honor value",
           "+75 Carrying capacity",
           "+100% Global learning factor",
           "+80% Psychic sensitivity",
           "+80% Rest rate multiplier",
-          "+80% Global work speed",
+          "+70% Global work speed",
           "+0 Foraged food amount",
-          "+100.00% Negotiation ability",
-          "+100.00% Social impact",
-          "+100.00% Trade price improvement",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
           "+40 Leather amount",
-          "+78% Pain shock threshold",
+          "+82% Pain shock threshold",
           "+30% Mental break threshold",
-          "+18.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+5.00 Move speed",
+          "+22.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+5.20 Move speed",
           "+95% Aiming time",
           "+10.0 Melee dodge chance",
           "+1.2 Melee hit chance"

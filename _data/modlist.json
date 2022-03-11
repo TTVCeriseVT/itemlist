@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.1.0"
+    "version": "1.2.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -75,7 +75,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
-    "version": "1.0.0.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -459,7 +459,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.3.3"
+    "version": "1.4.0"
   },
   {
     "author": "Uuugggg",
@@ -513,7 +513,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
   {
     "author": "Seioch and  MaroonToon",
@@ -648,12 +648,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -690,12 +684,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Xavior",
-    "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
@@ -722,8 +710,8 @@
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "dracoix",
@@ -774,8 +762,8 @@
     "version": null
   },
   {
-    "author": "juanlopez2008",
-    "name": "LightsOut",
+    "author": "Chairheir",
+    "name": "Oddities: Core Module",
     "steamId": null,
     "version": null
   },
@@ -813,7 +801,13 @@
     "author": "Owlchemist",
     "name": "Simple Utilities: Ceiling",
     "steamId": "2571003732",
-    "version": "0.0.0.0"
+    "version": "1.3"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
   },
   {
     "author": "Dubwise",
@@ -831,7 +825,7 @@
     "author": "Mlie",
     "name": "Prisoners Dont Have Keys",
     "steamId": "2595360307",
-    "version": "1.0.2.0"
+    "version": "1.3.2"
   },
   {
     "author": "Zeitloser and  Erin",
@@ -908,8 +902,8 @@
   {
     "author": "telardo",
     "name": "Epitaph",
-    "steamId": null,
-    "version": null
+    "steamId": "2582007729",
+    "version": "1.0.0.0"
   },
   {
     "author": "Bob",
@@ -938,6 +932,12 @@
   {
     "author": "Simmin",
     "name": "Stuff on Tables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Miathea",
+    "name": "Glitterworld Component",
     "steamId": null,
     "version": null
   },
@@ -1008,36 +1008,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
-  },
-  {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.7"
-  },
-  {
-    "author": "Nry_Chan",
-    "name": "Toolkit - Romantic Interests",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "cucumpear",
     "name": "CCP's Mental Break Tweaks",
     "steamId": null,
@@ -1052,8 +1022,8 @@
   {
     "author": "pb3n and  Taranchuk",
     "name": "[BETA] Simple Warrants",
-    "steamId": null,
-    "version": null
+    "steamId": "2676828755",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kirby",
@@ -1064,13 +1034,217 @@
   {
     "author": "Sarg Bjornson,  Helixien,  Cassie and  Luizi",
     "name": "Alpha Memes",
-    "steamId": null,
-    "version": null
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.15"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "2.8"
+  },
+  {
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.0.9.0"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.7468.14677"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Mlie",
+    "name": "Relevant Stats In Description",
+    "steamId": "2692669482",
+    "version": "1.3.5"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": "2645100914",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Romance On The Rim",
+    "steamId": "2654432921",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17,  Oskar Potocki,  Chowder and  Kikohi",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Live With The Pain",
+    "steamId": "2659985388",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "FluffyKittens",
+    "name": "Categorized Bill Dropdown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Convert Then Recruit",
+    "steamId": "2702584632",
+    "version": "1.3.10"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Cleaning Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oracle and Erin",
+    "name": "Opossum Friends",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erok",
+    "name": "Lanterns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "Favourites!",
+    "steamId": "2720562164",
+    "version": "1.0.0"
+  },
+  {
+    "author": "booleanne",
+    "name": "Horse Breeds - Skin Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Dried Berries and Meats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimkit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
+  },
+  {
+    "author": "NotooShabby,  Netrve and  Taranchuk",
+    "name": "Awesome Inventory 1.3 Forked",
+    "steamId": "2669036490",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "Nry_Chan",
+    "name": "Toolkit - Romantic Interests",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.1.6.0"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.7"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   }
 ]
