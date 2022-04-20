@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 16000,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 15000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
