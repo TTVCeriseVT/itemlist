@@ -9076,7 +9076,7 @@
       "abr": "minchopinkfallinlovecookie",
       "category": "Drugs",
       "defname": "Mincho_PinkFallInLove_Cookie",
-      "price": 2
+      "price": 5
     },
     {
       "abr": "minchopinkfallinlovehat",
@@ -12592,19 +12592,19 @@
       "abr": "bioniccattail",
       "category": "Bionic",
       "defname": "Nr_BioCatTail",
-      "price": 1717
+      "price": 2000
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "RK_BionicTail",
-      "price": 1717
+      "price": 2000
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "RB_BionicTail",
-      "price": 1717
+      "price": 2000
     },
     {
       "abr": "braincrystal",
@@ -13510,7 +13510,7 @@
       "abr": "hotsauce",
       "category": "Condiments",
       "defname": "VCE_HotSauce",
-      "price": 2
+      "price": 5
     },
     {
       "abr": "irishcoffee",
@@ -13522,7 +13522,7 @@
       "abr": "ketchup",
       "category": "Condiments",
       "defname": "VCE_Ketchup",
-      "price": 2
+      "price": 5
     },
     {
       "abr": "kombuchatea",
@@ -13957,11 +13957,59 @@
       "price": -10
     },
     {
+      "abr": "bionicbuntail",
+      "category": "Bionic",
+      "defname": "Bun_BionicTail",
+      "price": 967
+    },
+    {
+      "abr": "bun",
+      "category": "Animal",
+      "defname": "Alien_BunTribe",
+      "price": -10
+    },
+    {
+      "abr": "bunfloof",
+      "category": "Wools",
+      "defname": "BunFloof",
+      "price": 4
+    },
+    {
+      "abr": "bun-dog",
+      "category": "Animals",
+      "defname": "Cynobun",
+      "price": 1500
+    },
+    {
+      "abr": "bun-dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Cynobun",
+      "price": 3
+    },
+    {
+      "abr": "prostheticbuntail",
+      "category": "Prosthetic",
+      "defname": "Bun_ProstheticTail",
+      "price": 225
+    },
+    {
+      "abr": "shaggybun-dog",
+      "category": "Animals",
+      "defname": "CynobunHirsutus",
+      "price": 1500
+    },
+    {
+      "abr": "shaggybun-dogmeat",
+      "category": "Meat",
+      "defname": "Meat_CynobunHirsutus",
+      "price": 3
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
     }
   ],
-  "total": 2327
+  "total": 2335
 }
