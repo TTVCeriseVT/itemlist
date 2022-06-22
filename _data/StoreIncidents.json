@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 15000,
-		"karmatype": "Bad"
+		"price": 25000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -129,11 +129,6 @@
 		"abr": "meteor",
 		"price": 800,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 1000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -271,11 +266,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -296,11 +286,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -319,16 +304,6 @@
 		"abr": "hodlbotvote",
 		"price": 800,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 20000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2900,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
@@ -516,5 +491,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 103
+	"total": 98
 }
