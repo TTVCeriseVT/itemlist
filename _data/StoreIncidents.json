@@ -2,22 +2,22 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 10000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 25000,
-		"karmatype": "Doom"
+		"price": 2600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
-		"price": 500,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
-		"price": 500,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -27,17 +27,17 @@
 	},
 	{
 		"abr": "foggyrain",
-		"price": 500,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 500,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 500,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -47,17 +47,17 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 500,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fog",
-		"price": 500,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "heatwave",
-		"price": 800,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -72,27 +72,27 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 10000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 700,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 10000,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 500,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,17 +102,17 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
-		"price": 200,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 700,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -122,32 +122,32 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 800,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 800,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 800,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 700,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 800,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -157,12 +157,12 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 800,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wildman",
-		"price": 800,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -187,22 +187,22 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 1000,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
-		"price": 150,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2500,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
@@ -212,7 +212,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 500,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 800,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -317,7 +317,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2200,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -337,12 +337,12 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2200,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -437,12 +437,12 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 1500,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animalpodcrash",
-		"price": 800,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -472,7 +472,7 @@
 	},
 	{
 		"abr": "cropsprout",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -482,12 +482,12 @@
 	},
 	{
 		"abr": "drought",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "wildmen",
-		"price": 800,
+		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
