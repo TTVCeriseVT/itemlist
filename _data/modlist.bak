@@ -186,6 +186,12 @@
     "version": null
   },
   {
+    "author": "You - but you forgot.",
+    "name": "Cerise Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dhultgren",
     "name": "Change Caravan Loadout",
     "steamId": null,
@@ -972,6 +978,12 @@
     "version": "1.3.1"
   },
   {
+    "author": "Nry_Chan",
+    "name": "Toolkit - Romantic Interests",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -1340,12 +1352,6 @@
   {
     "author": "BJInternetSupervision",
     "name": "[SS]Lovely Hair Style",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "You - but you forgot.",
-    "name": "Cerise Mod",
     "steamId": null,
     "version": null
   },
