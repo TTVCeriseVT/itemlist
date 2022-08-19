@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 8000,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 20000,
+		"price": 26000,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,12 +67,12 @@
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 10000,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -161,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -212,47 +207,47 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -286,6 +281,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -304,6 +304,11 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveme",
+		"price": 20000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
@@ -484,11 +489,6 @@
 		"abr": "drought",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "wildmen",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
 	"total": 98

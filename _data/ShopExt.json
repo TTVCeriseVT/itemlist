@@ -4212,7 +4212,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
+      "price": 20000
     },
     {
       "data": {
@@ -4245,7 +4245,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4285,7 +4285,7 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4307,7 +4307,7 @@
       "defName": "DesignerMatesXH",
       "enabled": true,
       "name": "designer mate",
-      "price": 2500
+      "price": 25000
     },
     {
       "data": {
@@ -4331,7 +4331,7 @@
       "defName": "ScaleManXH",
       "enabled": true,
       "name": "Scaleman",
-      "price": 2500
+      "price": 25000
     },
     {
       "data": {
@@ -4352,7 +4352,7 @@
       "defName": "SoldiermorphXH",
       "enabled": true,
       "name": "soldiermorph",
-      "price": 2500
+      "price": 25000
     },
     {
       "data": {
@@ -4375,7 +4375,7 @@
       "defName": "WolfManXH",
       "enabled": true,
       "name": "wolfman",
-      "price": 2500
+      "price": 25000
     },
     {
       "data": {
@@ -4418,7 +4418,7 @@
       "defName": "Mincho_ThingDef",
       "enabled": true,
       "name": "mincho",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4455,7 +4455,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4493,7 +4493,7 @@
       "defName": "Ratkin_Su",
       "enabled": true,
       "name": "Ratkin subject",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4529,7 +4529,7 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4556,7 +4556,7 @@
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
-      "price": 3000
+      "price": 30000
     },
     {
       "data": {
@@ -4589,7 +4589,7 @@
       "defName": "Alien_Heyra",
       "enabled": true,
       "name": "Heyra",
-      "price": 4583
+      "price": 35000
     },
     {
       "data": {
@@ -4622,57 +4622,7 @@
       "defName": "Alien_Heyra_Rong",
       "enabled": true,
       "name": "Rong",
-      "price": 4583
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+38% Mental break threshold",
-          "+26.0C Maximum comfortable temperature",
-          "+16.0C Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+60 Meat amount",
-          "+50 Leather amount",
-          "+80% Pain shock threshold",
-          "+120% Psychic sensitivity",
-          "+0.9 Melee dodge chance",
-          "+0.8 Melee hit chance",
-          "+80% Aiming time",
-          "+1.2 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+120% Drug synthesis speed",
-          "+120% Medical surgery success chance",
-          "+80% Mining speed",
-          "+100% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.",
-      "defName": "Rabbie",
-      "enabled": true,
-      "name": "Rabbie",
-      "price": 3333
+      "price": 35000
     }
   ]
 }
